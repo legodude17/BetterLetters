@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  <BetterLetters.Remove>Remove</BetterLetters.Remove>
+  <BetterLetters.OfDef>of def {0}</BetterLetters.OfDef>
+  <BetterLetters.Contain>containing {0}</BetterLetters.Contain>
+  <BetterLetters.Blocking>Blocking letters</BetterLetters.Blocking>
+  <BetterLetters.AddNew>Add new</BetterLetters.AddNew>
+  <BetterLetters.Def>Def: </BetterLetters.Def>
+  <BetterLetters.None>None</BetterLetters.None>
+  <BetterLetters.Text>Search for Text:</BetterLetters.Text>
+  <BetterLetters.SwapOrder.Label>Swap Order of Letters?</BetterLetters.SwapOrder.Label>
+  <BetterLetters.SwapOrder.Tooltip>Should the order of letters on the side be swapped from latest on the bottom to latest on top?</BetterLetters.SwapOrder.Tooltip>
+  <BetterLetters.AllowLetters.Label>Allow Letters at all?</BetterLetters.AllowLetters.Label>
+  <BetterLetters.AllowLetters.Tooltip>If true, no letters will be allowed to be recieved.</BetterLetters.AllowLetters.Tooltip>
+  <BetterLetters.AlertOnBlock.Label>Alert on blocked letter?</BetterLetters.AlertOnBlock.Label>
+  <BetterLetters.AlertOnBlock.Tooltip>If true, a message will be sent in the top right when a letter is blocked</BetterLetters.AlertOnBlock.Tooltip>
+  <BetterLetters.Blocking.Label>Enable blocking?</BetterLetters.Blocking.Label>
+  <BetterLetters.Blocking.Tooltip>Should letters be blocked based on the filters below?</BetterLetters.Blocking.Tooltip>
+</LanguageData>
