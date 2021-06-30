@@ -14,6 +14,7 @@ namespace BetterLetters
             Harm.Patch(AccessTools.Method(typeof(LetterStack), "ReceiveLetter",
                 new[] {typeof(Letter), typeof(string)}), new HarmonyMethod(typeof(BetterLettersMod), "CheckForBlock"));
             ExtraLetterOptions.DoPatch(Harm);
+            ArchiveSearchBar.DoPatches(Harm);
             Instance = this;
         }
 
